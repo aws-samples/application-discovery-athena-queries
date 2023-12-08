@@ -1,11 +1,6 @@
-## My Project
+## Application Discovery Athena Query
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
+In  this repository you can find samples of SQL that runs on [Amazon Athena](https://aws.amazon.com/athena) and links together ALL the tables storing data from [AWS Application Discovery Service](https://aws.amazon.com/application-discovery/).
 
 ## Security
 
